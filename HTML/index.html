@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Work</title>
+    <link rel="stylesheet" href="/Css/style_index.css">
+</head>
+<body>
+    <a href="login.html"><button id="logout">Logout</button></a>
+    <h1>Todo List</h1>
+    <h3>Start My Work In Here</h3>
+
+    <input type="text" name="Work" id="work" placeholder="Enter your work today?">
+    <button id="add" onclick="add()">Add</button>
+    <table>
+        <tr>
+            <th width="10%">STT</th>
+            <th width="60%">List Task</th>
+            <th width="10%">Status</th>
+            <th width="20%">Option</th>
+        </tr>
+    </table>
+    <button id="delete_All" onclick="dele()">Delete All</button>
+    <button id="conplete" onclick="check()">Complete It All</button>
+
+    <script type="module" src="/JS/app.js"></script>
+</body>
+</html>

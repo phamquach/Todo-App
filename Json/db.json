@@ -1,0 +1,66 @@
+{
+  "User": [
+    {
+      "id": "1",
+      "Ho": "Pham",
+      "Ten": "Quach",
+      "Username": "Addmin",
+      "Password": "Addmin@123",
+      "Email": "Addmin@gmail.com",
+      "PhoneNumber": "0868375541",
+      "Date": "2005-10-05"
+    },
+    {
+      "id": "63df",
+      "Ho": "Pham ",
+      "Ten": "Quach",
+      "Username": "PhamAnhQuach123",
+      "Password": "Qu@ch1234",
+      "Email": "quach102524@donga.edu.vn",
+      "PhoneNumber": "0868375541",
+      "Date": "2005-05-10",
+      "MyWork": [
+        "Thứ 3 Môn Lập Trình Căn Bản ( 1-3 | 7h - 9h30 )",
+        "Thứ 4 Các Vấn Đề Xã Hội ( 4 - 6 | 10h - 12H )",
+        "Thứ 3 Tâm Lý Học Và Đời Sống ( 7 - 9 | 13h - 15h30 )",
+        "học Lập Trình"
+      ]
+    },
+    {
+      "id": "02ca",
+      "Ho": "Thuy",
+      "Ten": "Hong",
+      "Username": "Hong123",
+      "Password": "Hong@123",
+      "Email": "Hong@gmail.com",
+      "PhoneNumber": "0832535312",
+      "Date": "2005-08-18",
+      "MyWork": []
+    },
+    {
+      "id": "1f79",
+      "Ho": "Kim ",
+      "Ten": "Khanh",
+      "Username": "KimKhanh123",
+      "Password": "Khanh@123",
+      "Email": "phamquach2005py@gmail.com",
+      "PhoneNumber": "0868375541",
+      "Date": "2205-02-10",
+      "MyWork": []
+    },
+    {
+      "id": "53fc",
+      "Ho": "Đình",
+      "Ten": "Bảo",
+      "Username": "Bao123",
+      "Password": "Bao@1234",
+      "Email": "bao@gmail.com",
+      "PhoneNumber": "1232354564",
+      "Date": "0123-03-12",
+      "MyWork": [
+        "Pham Quach",
+        "Bao"
+      ]
+    }
+  ]
+}
