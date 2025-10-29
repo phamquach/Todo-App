@@ -37,7 +37,7 @@ npm install -g json-server
 ### 3️⃣ Start the Server  
 ```bash
 cd Json
-json-server --watch db.json --port 3000
+json-server --watch db.json --port 5678
 ```
 
 ### 4️⃣ Open the App  
